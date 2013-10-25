@@ -130,6 +130,7 @@ INSTALLED_APPS = (
     'u',
     'xmlfiles',
     'tut',
+    'tutize',
 )
 
 # A sample logging configuration. The only tangible logging
